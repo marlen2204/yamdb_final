@@ -1,4 +1,4 @@
-![Github CI/CD](![example workflow](https://img.shields.io/appveyor/build/marlen2204/yamdb_final))
+![ ](https://img.shields.io/github/actions/workflow/status/marlen2204/yamdb_final/yamdb_workflow.yml)
 
 # Infra_sp2
 - [x] заполнить файл c workflow
