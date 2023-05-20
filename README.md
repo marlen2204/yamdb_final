@@ -1,4 +1,4 @@
-![example workflow](https://github.com/marlen2204/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/marlen2204/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
 # Infra_sp2
 - [x] заполнить файл c workflow
