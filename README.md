@@ -1,4 +1,4 @@
-![ ](https://img.shields.io/github/actions/workflow/status/marlen2204/yamdb_final/yamdb_workflow.yml)
+![ ](https://img.shields.io/github/actions/workflow/status/marlen2204/yamdb_final/yamdb_workflow.yml?event=push&style=plastic)
 
 # Infra_sp2
 - [x] заполнить файл c workflow
