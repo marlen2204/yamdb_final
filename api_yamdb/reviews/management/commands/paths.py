@@ -1,0 +1,7 @@
+USERS_PATH = 'static/data/users.csv'
+CATEGORY_PATH = 'static/data/category.csv'
+GENRE_PATH = 'static/data/genre.csv'
+TITLES_PATH = 'static/data/titles.csv'
+GENRE_TITLE_PATH = 'static/data/genre_title.csv'
+REVIEW_PATH = 'static/data/review.csv'
+COMMENTS_PATH = 'static/data/comments.csv'
