@@ -1,8 +1,8 @@
 ![ ](https://img.shields.io/github/actions/workflow/status/marlen2204/yamdb_final/yamdb_workflow.yml?event=push&style=plastic)
 
-# Infra_sp2
+
 - [x] заполнить файл c workflow
-- [ ] добавить в secrets секреты
+- [x] добавить в secrets секреты
 ### Описание
 По сути это проект api_ymdb упакованный в docker-compose, с настроенным nginx  и postgres в качестве базы данных
 Проект YaMDb собирает отзывы пользователей на произведения.
